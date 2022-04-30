@@ -4,7 +4,6 @@
 
 [![Palomita2222](https://github-readme-stats.vercel.app/api/top-langs/?username=Palomita2222&hide=html&layout=compact&theme=dark)](https://github.com/Palomita2222/)
 
-<img src="https://i.shipit.today" align="right">
 
 ## Skills
 
