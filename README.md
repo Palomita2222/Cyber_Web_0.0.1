@@ -18,5 +18,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="left">
-  ⭐ Hacking: <strong> Im hacker scripts developer in python & shell </strong>
+  ⭐ Hacking: <strong> Im a network and website hacker. I can do undetectable MITM attacks, sniffing and data collecting. On the other hand, I can also do XSS injection for websites.</strong>
+  ⭐ Coding: <strong> I can program in python at a high level and code custom and useful programs for individuals, and companies. (Im open for offers, contact info in desc).
 </p>
