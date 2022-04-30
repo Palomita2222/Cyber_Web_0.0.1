@@ -1,32 +1,22 @@
-<img src="https://emoji.gg/assets/emoji/4026-pride-potion.png" align="left" height="30px" width="30px">
-<h2 align="left"> Skills </h2>
-
-<div align="left">
-
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-<img src="https://emoji.gg/assets/emoji/1750-yellow-potion.png" align="left" height="30px" width="30px">
-<h2 align="left"> Study Lenguages </h2>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![+](https://img.shields.io/badge/Hacking-Level%3A%20Medium-red)
-
-
-<img src="https://emoji.gg/assets/emoji/4026-pink-potion.png" align="left" height="30px" width="30px">
-<h2 align="left"> About Me </h2>
-
-- Python, Javascript, css3, html5 developer
-- Cybersecurity | Debian/Windows
-- Hacking script creator
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=43aeb8&size=40&lines=Hey!+Im+Palomita2222">
 
 ---
 
-<img src="https://img.shields.io/badge/Bitcoin-Palomita222-lightgrey" href="">
+[![Palomita2222](https://github-readme-stats.vercel.app/api/top-langs/?username=Palomita2222&hide=html&layout=compact&theme=dark)](https://github.com/Palomita2222/)
+
+<img src="https://i.shipit.today" align="right">
+
+## Skills
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+# Social Media
+
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<p align="left">
+  ⭐ Hacking: <strong> Im hacker scripts developer in python & shell </strong>
+</p>
